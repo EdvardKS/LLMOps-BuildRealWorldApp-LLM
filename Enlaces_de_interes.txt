@@ -1,0 +1,12 @@
+COMET, dónde podrás ver las estadisticas de mi modelo:
+COMET, where you can see the statistics of my model:
+https://www.comet.com/edvardks/project-clickbait-detector/dbc7fa020af24fb1a1acdb96bc8a8052?compareXAxis=step&experiment-tab=panels&showOutliers=true&smoothing=0.518&xAxis=wall
+
+Google-Colab The project Online:
+https://colab.research.google.com/drive/1qoPBSNy5ztibHLDGO1JtvGMZ5R1hyXW0?usp=drive_link
+
+Portfolio: https://edvardks.com
+
+Linkedin: https://linkedin.com/in/edvardks
+
+Mail: info@edvardks.com
